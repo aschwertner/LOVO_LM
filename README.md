@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Este repositório contêm implementações em Python 3.6.7 do método LOVO-LM, descrito em
+Este repositório contêm implementações em *Python 3.6.7* do método LOVO-LM, descrito em
 
 > Schwertner, A. E. (2019). O Método de Levenberg-Marquardt para Problemas de Otimização de Menor Valor Ordenado (Dissertação de Mestrado). Universidade Estadual de Maringá - UEM, Maringá, PR, Brasil.
 
@@ -14,7 +14,7 @@ Assim como arquivos relativos aos testes descritos na dissertação apontada aci
 
 ## Como utilizar
 
- - Caso queira executar novamente os testes, basta alterar os campos *OPÇÕES* E *PARÂMETROS* presentes no arquivo *teste_algoritmos.py*, o qual se encontra na pasta *codigos*.
+ - Caso queira executar novamente os testes, basta alterar os campos *OPÇÕES* e *PARÂMETROS* presentes no arquivo *teste_algoritmos.py*, o qual se encontra na pasta *codigos*.
 
  - Caso queira executar algum algoritmo isoladamente, basta compilar seu respectivo código e chamar o método como uma função, atribuindo os parâmetros desejados. Mais informações estão disponíveis no próprio código ou utilizar o comando ``` help(*'nome_da_função'*)´´´ depois de compilar.
 
