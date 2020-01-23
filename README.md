@@ -16,7 +16,7 @@ Assim como arquivos relativos aos testes descritos na dissertação apontada aci
 
  - Caso queira executar novamente os testes, basta alterar os campos *OPÇÕES* e *PARÂMETROS* presentes no arquivo *teste_algoritmos.py*, o qual se encontra na pasta *codigos*.
 
- - Caso queira executar algum algoritmo isoladamente, basta compilar seu respectivo código e chamar o método como uma função, atribuindo os parâmetros desejados. Mais informações estão disponíveis no próprio código ou utilizar o comando ``` help(*'nome_da_função'*)´´´ depois de compilar.
+ - Caso queira executar algum algoritmo isoladamente, basta compilar seu respectivo código e chamar o método como uma função, atribuindo os parâmetros desejados. Mais informações estão disponíveis no próprio código ou utilizar o comando * help('nome_da_função')* depois de compilar.
 
 ## Testes
 
